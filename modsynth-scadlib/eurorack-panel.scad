@@ -4,6 +4,7 @@ u3 = 133.35*mm;
 eu3 = u3 - 5*mm;
 m3_clearance = 3.30*mm;
 d=0.001;
+$fn=50;
 
 module panel(hp_width) {
     realwidth = (hp1 * hp_width) - ((hp1 * hp_width) * 0.006);
