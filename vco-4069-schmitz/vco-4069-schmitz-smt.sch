@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -10137,52 +10137,52 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 </class>
 </classes>
 <parts>
-<part name="R1" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
-<part name="R2" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
 <part name="R3" library="ptc-ntc" deviceset="NTC640-9" device="" value="10k"/>
 <part name="R4" library="ptc-ntc" deviceset="NTC640-9" device="" value="10k"/>
 <part name="P-1" library="supply1" deviceset="-12V" device=""/>
-<part name="R6" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
+<part name="R6" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
 <part name="R7" library="ptc-ntc" deviceset="NTC640-9" device="" value="10k"/>
 <part name="R8" library="pot" deviceset="TRIM_US-" device="B25P" value="1k"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="Q1" library="transistor-pnp" deviceset="BC560*" device=""/>
 <part name="Q2" library="transistor-npn" deviceset="BC550*" device="" technology="B"/>
 <part name="P-2" library="supply1" deviceset="-12V" device=""/>
-<part name="R9" library="resistor" deviceset="R-US_" device="0207/2V" value="1M"/>
+<part name="R9" library="resistor" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="P+1" library="supply1" deviceset="+12V" device=""/>
-<part name="R10" library="resistor" deviceset="R-US_" device="0207/2V" value="1.5k"/>
-<part name="IC1" library="40xx" deviceset="4069" device="N" value="4069N"/>
-<part name="R11" library="resistor" deviceset="R-US_" device="0207/2V" value="10k"/>
-<part name="R12" library="resistor" deviceset="R-US_" device="0207/2V" value="22k"/>
-<part name="R13" library="resistor" deviceset="R-US_" device="0204/7" value="680"/>
+<part name="R10" library="resistor" deviceset="R-US_" device="R0805" value="1.5k"/>
+<part name="IC1" library="40xx" deviceset="4069" device="D" value="4069D"/>
+<part name="R11" library="resistor" deviceset="R-US_" device="R0805" value="10k"/>
+<part name="R12" library="resistor" deviceset="R-US_" device="R0805" value="22k"/>
+<part name="R13" library="resistor" deviceset="R-US_" device="R0805" value="680"/>
 <part name="D1" library="diode" deviceset="1N4148" device="DO35-7"/>
-<part name="C1" library="resistor" deviceset="C-EU" device="025-025X050" value="2.2nF"/>
+<part name="C1" library="resistor" deviceset="C-EU" device="C0805" value="2.2nF"/>
 <part name="D2" library="diode" deviceset="1N4148" device="DO35-7"/>
-<part name="C3" library="resistor" deviceset="C-EU" device="025-025X050" value="220nF"/>
-<part name="R14" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
-<part name="C2" library="resistor" deviceset="C-EU" device="025-025X050" value="220nF"/>
-<part name="R15" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
-<part name="R16" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
-<part name="R17" library="resistor" deviceset="R-US_" device="0207/2V" value="47k"/>
-<part name="R18" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
+<part name="C3" library="resistor" deviceset="C-EU" device="C0805" value="220nF"/>
+<part name="R14" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
+<part name="C2" library="resistor" deviceset="C-EU" device="C0805" value="220nF"/>
+<part name="R15" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
+<part name="R16" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
+<part name="R17" library="resistor" deviceset="R-US_" device="R0805" value="47k"/>
+<part name="R18" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
 <part name="P+2" library="supply1" deviceset="+12V" device=""/>
 <part name="Q3" library="transistor-npn" deviceset="BC550*" device="" technology="B"/>
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
-<part name="R20" library="resistor" deviceset="R-US_" device="0207/2V" value="68k"/>
-<part name="R21" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
-<part name="R22" library="resistor" deviceset="R-US_" device="0207/2V" value="1M"/>
+<part name="R20" library="resistor" deviceset="R-US_" device="R0805" value="68k"/>
+<part name="R21" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
+<part name="R22" library="resistor" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
-<part name="R23" library="resistor" deviceset="R-US_" device="0207/5V" value="10k"/>
+<part name="R23" library="resistor" deviceset="R-US_" device="R0805" value="10k"/>
 <part name="P-3" library="supply1" deviceset="-12V" device=""/>
-<part name="R24" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
-<part name="C4" library="resistor" deviceset="C-EU" device="025-025X050" value="220nF"/>
-<part name="R25" library="resistor" deviceset="R-US_" device="0207/2V" value="100k"/>
+<part name="R24" library="resistor" deviceset="R-US_" device="R0805" value="10k"/>
+<part name="C4" library="resistor" deviceset="C-EU" device="C0805" value="220nF"/>
+<part name="R25" library="resistor" deviceset="R-US_" device="R0805" value="100k"/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="J1" library="SparkFun-Connectors" deviceset="M03" device="PTH" value="22k pot (fp)"/>
 <part name="J2" library="SparkFun-Connectors" deviceset="M03" device="PTH" value="22k pot (fp)"/>
@@ -10201,13 +10201,13 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
 <part name="P+5" library="supply1" deviceset="+12V" device=""/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
-<part name="R5" library="resistor" deviceset="R-US_" device="0207/2V" value="3.3k"/>
+<part name="R5" library="resistor" deviceset="R-US_" device="R0805" value="3.3k"/>
 <part name="P+6" library="supply1" deviceset="+12V" device=""/>
-<part name="R19" library="resistor" deviceset="R-US_" device="0207/2V" value="3.3k"/>
-<part name="R26" library="resistor" deviceset="R-US_" device="0207/2V" value="33k"/>
+<part name="R19" library="resistor" deviceset="R-US_" device="R0805" value="3.3k"/>
+<part name="R26" library="resistor" deviceset="R-US_" device="R0805" value="3.3k"/>
 <part name="P-5" library="supply1" deviceset="-12V" device=""/>
 <part name="P-6" library="supply1" deviceset="-12V" device=""/>
-<part name="Q4" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_NPN" device="BC547"/>
+<part name="Q4" library="SparkFun-DiscreteSemi" deviceset="TRANSISTOR_NPN" device="MMBT2222A"/>
 </parts>
 <sheets>
 <sheet>
@@ -10242,12 +10242,12 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <instance part="C1" gate="G$1" x="73.66" y="50.8" rot="R90"/>
 <instance part="D2" gate="G$1" x="101.6" y="63.5" rot="R180"/>
 <instance part="C3" gate="G$1" x="127" y="22.86" rot="R90"/>
-<instance part="R14" gate="G$1" x="134.62" y="17.78" rot="R90"/>
+<instance part="R14" gate="G$1" x="134.62" y="17.78" rot="R270"/>
 <instance part="C2" gate="G$1" x="162.56" y="-15.24" rot="R90"/>
 <instance part="R15" gate="G$1" x="167.64" y="-20.32" rot="R270"/>
 <instance part="R16" gate="G$1" x="101.6" y="-2.54"/>
 <instance part="R17" gate="G$1" x="88.9" y="5.08" rot="R90"/>
-<instance part="R18" gate="G$1" x="81.28" y="-2.54" rot="R180"/>
+<instance part="R18" gate="G$1" x="81.28" y="-2.54"/>
 <instance part="P+2" gate="1" x="71.12" y="12.7"/>
 <instance part="Q3" gate="G$1" x="76.2" y="-15.24"/>
 <instance part="P+3" gate="1" x="78.74" y="-7.62"/>
@@ -10256,7 +10256,7 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <instance part="R22" gate="G$1" x="73.66" y="-20.32" rot="R90"/>
 <instance part="GND1" gate="1" x="7.62" y="48.26" rot="R180"/>
 <instance part="GND8" gate="1" x="58.42" y="10.16"/>
-<instance part="GND10" gate="1" x="134.62" y="7.62"/>
+<instance part="GND10" gate="1" x="134.62" y="10.16"/>
 <instance part="GND4" gate="1" x="73.66" y="-27.94"/>
 <instance part="GND5" gate="1" x="71.12" y="-7.62"/>
 <instance part="GND6" gate="1" x="167.64" y="-27.94"/>
@@ -10364,6 +10364,10 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <pinref part="GND8" gate="1" pin="GND"/>
 </segment>
 <segment>
+<pinref part="R14" gate="G$1" pin="2"/>
+<pinref part="GND10" gate="1" pin="GND"/>
+</segment>
+<segment>
 <pinref part="R22" gate="G$1" pin="1"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 </segment>
@@ -10420,11 +10424,6 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <pinref part="IC1" gate="P" pin="VSS"/>
 <pinref part="GND13" gate="1" pin="GND"/>
 <wire x1="154.94" y1="12.7" x2="154.94" y2="10.16" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="R14" gate="G$1" pin="1"/>
-<pinref part="GND10" gate="1" pin="GND"/>
-<wire x1="134.62" y1="12.7" x2="134.62" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -10543,17 +10542,17 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 </net>
 <net name="SAW" class="0">
 <segment>
+<pinref part="R14" gate="G$1" pin="1"/>
+<pinref part="C3" gate="G$1" pin="2"/>
+<wire x1="134.62" y1="22.86" x2="139.7" y2="22.86" width="0.1524" layer="91"/>
+<junction x="134.62" y="22.86"/>
+<label x="139.7" y="22.86" size="1.27" layer="95" xref="yes"/>
+<wire x1="134.62" y1="22.86" x2="132.08" y2="22.86" width="0.1524" layer="91"/>
+</segment>
+<segment>
 <pinref part="J3" gate="G$1" pin="1"/>
 <wire x1="187.96" y1="33.02" x2="182.88" y2="33.02" width="0.1524" layer="91"/>
 <label x="182.88" y="33.02" size="1.27" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="C3" gate="G$1" pin="2"/>
-<wire x1="132.08" y1="22.86" x2="134.62" y2="22.86" width="0.1524" layer="91"/>
-<wire x1="137.16" y1="22.86" x2="134.62" y2="22.86" width="0.1524" layer="91"/>
-<pinref part="R14" gate="G$1" pin="2"/>
-<junction x="134.62" y="22.86"/>
-<label x="137.16" y="22.86" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -10609,21 +10608,21 @@ MMBT5088LT1G - TRANS-11160 (SOT-23, 50 mA 30V)&lt;br&gt;
 <pinref part="R16" gate="G$1" pin="1"/>
 <wire x1="96.52" y1="-2.54" x2="88.9" y2="-2.54" width="0.1524" layer="91"/>
 <junction x="88.9" y="-2.54"/>
+<wire x1="88.9" y1="-2.54" x2="86.36" y2="-2.54" width="0.1524" layer="91"/>
+<pinref part="R18" gate="G$1" pin="2"/>
 <pinref part="R20" gate="G$1" pin="2"/>
 <junction x="88.9" y="-10.16"/>
 <pinref part="R24" gate="G$1" pin="1"/>
 <wire x1="88.9" y1="-15.24" x2="88.9" y2="-20.32" width="0.1524" layer="91"/>
 <junction x="88.9" y="-15.24"/>
-<pinref part="R18" gate="G$1" pin="1"/>
-<wire x1="86.36" y1="-2.54" x2="88.9" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$18" class="0">
 <segment>
+<pinref part="R18" gate="G$1" pin="1"/>
+<wire x1="76.2" y1="2.54" x2="76.2" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="J2" gate="J$1" pin="2"/>
 <wire x1="71.12" y1="2.54" x2="76.2" y2="2.54" width="0.1524" layer="91"/>
-<pinref part="R18" gate="G$1" pin="2"/>
-<wire x1="76.2" y1="2.54" x2="76.2" y2="-2.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$19" class="0">
