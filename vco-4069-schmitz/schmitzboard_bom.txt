@@ -1,0 +1,56 @@
+Partlist
+
+Exported from vco-4069-schmitz.brd at 7/19/16 8:29 PM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library               Position (inch)       Orientation
+
+C1       2.2nF          C025-025X050 resistor              (1.1 0.98)            R90
+C2       220nF          C025-025X050 resistor              (1.5 0.32)            R270
+C3       220nF          C025-025X050 resistor              (2 0.7)               R0
+C4       220nF          C025-025X050 resistor              (1.4 0.32)            R270
+D1       1N4148DO35-7   DO35-7       diode                 (1.25 1.22)           R180
+D2       1N4148DO35-7   DO35-7       diode                 (1.535 1.07)          R270
+IC1      4069N          DIL14        40xx                  (1.3 0.65)            R0
+J1       22k pot (fp)   1X03         SparkFun-Connectors   (0.35 0.98)           R180
+J2       22k pot (fp)   1X03         SparkFun-Connectors   (1.05 0.15)           R0
+J3                      1X02         SparkFun-Connectors   (2 0.25)              R90
+J4                      1X02         SparkFun-Connectors   (1.8 0.25)            R90
+J5                      1X02         SparkFun-Connectors   (1.9 0.25)            R90
+J6                      1X03         SparkFun-Connectors   (0.55 0.55)           R0
+J7                      1X02         SparkFun-Connectors   (0.25 0.52)           R180
+J8                      1X02         SparkFun-Connectors   (0.15 1.19)           R0
+J9                      1X02         SparkFun-Connectors   (0.15 1.085)          R0
+Q1       BC560          TO92-EBC     transistor-pnp        (0.5 0.75)            R90
+Q2       BC550B         TO92-EBC     transistor-npn        (0.75 0.75)           R270
+Q3       BC550B         TO92-EBC     transistor-npn        (0.415 0.3)           R270
+Q4                      TO-92-AMMO   SparkFun-DiscreteSemi (1.75 0.65)           R270
+R1       100k           0207/2V      resistor              (0.75 1.15)           R270
+R2       100k           0207/2V      resistor              (0.625 1.15)          R270
+R3       10k            N640         ptc-ntc               (0.75 0.98)           R90
+R4       10k            N640         ptc-ntc               (0.625 0.98)          R90
+R5       3.3k           0207/2V      resistor              (1.8 0.85)            R0
+R6       100k           0207/2V      resistor              (0.5 1.15)            R270
+R7       10k            N640         ptc-ntc               (0.5 0.98)            R90
+R8       1k             B25P         pot                   (0.3 0.75)            R90
+R9       1M             0207/2V      resistor              (0.95 0.9)            R0
+R10      1.5k           0207/2V      resistor              (0.1 0.735)           R270
+R11      10k            0207/2V      resistor              (1.3 0.95)            R270
+R12      22k            0207/2V      resistor              (1.425 0.95)          R270
+R13      680            0204/7       resistor              (1.25 1.13)           R0
+R14      100k           0207/2V      resistor              (2.1 0.5)             R90
+R15      100k           0207/2V      resistor              (1.61 0.32)           R90
+R16      100k           0207/2V      resistor              (1.05 0.37)           R0
+R17      47k            0207/2V      resistor              (0.88 0.535)          R135
+R18      100k           0207/2V      resistor              (1.055 0.265)         R0
+R19      3.3k           0207/2V      resistor              (1.9 0.5)             R90
+R20      68k            0207/2V      resistor              (0.865 0.41)          R0
+R21      100k           0207/2V      resistor              (0.2 0.4)             R0
+R22      1M             0207/2V      resistor              (0.2 0.3)             R0
+R23      10k            0207/5V      resistor              (0.55 0.335)          R270
+R24      100k           0207/2V      resistor              (0.865 0.315)         R180
+R25      100k           0207/2V      resistor              (1.285 0.32)          R90
+R26      33k            0207/2V      resistor              (2 0.5)               R90
